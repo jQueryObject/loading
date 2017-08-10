@@ -1,5 +1,6 @@
 # jquery页面loading提示用户等待效果loading
 效果如下：
+
 ![](images/img.gif)
 
 all code:
